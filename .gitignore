@@ -1,0 +1,11 @@
+.env
+notes/email-activation.py
+.vscode
+
+# Django related 
+src/blogdemo/settings/local.py
+static-cdn/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+

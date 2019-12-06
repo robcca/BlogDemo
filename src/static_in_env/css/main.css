@@ -1,0 +1,14 @@
+.centerblock {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 0px 10px 40px 10px;
+}
+
+.hr-posts {
+    height: 2px;
+    background-color: grey;
+}
+    
